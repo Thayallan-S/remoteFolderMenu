@@ -1,8 +1,8 @@
 //
 //  MountedItem.swift
-//  MountView
+//  MenuBar
 //
-//  Created by Bendedikt Elser on 23.11.17.
+//  Created by Thayallan Srinathan on 02/01/2019
 //
 
 import Foundation
