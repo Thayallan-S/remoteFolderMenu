@@ -16,3 +16,8 @@ Initially you mount your share via Finder. Then click on the MountView Icon (⏏
 - Import Recent Items (From Finder / Recent Items Menu)
 - Autostart
 - Custom Names of Mount Points
+
+## Bugs
+
+There are problems, when mounting shares with domains e.g. mydomain\myuser.
+
