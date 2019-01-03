@@ -2,7 +2,7 @@
 //  StatusMenuController.swift
 //  MountView
 //
-//  Benedikt Elser
+//  Thayallan Srinathan
 //  Based on work by Brad Greenlee on 10/11/15.
 //
 
