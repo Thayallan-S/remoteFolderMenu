@@ -21,3 +21,6 @@ Initially you mount your share via Finder. Then click on the MountView Icon (⏏
 
 There are problems, when mounting shares with domains e.g. mydomain\myuser.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
