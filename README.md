@@ -10,3 +10,9 @@ You can love / unlove these folders and eject them, if they are mounted.
 ## Usage
 
 Initially you mount your share via Finder. Then click on the MountView Icon (⏏) and click on the love icon. Now the entry will show up even if the share is not mounted.
+
+## TODO
+
+- Import Recent Items (From Finder / Recent Items Menu)
+- Autostart
+- Custom Names of Mount Points
