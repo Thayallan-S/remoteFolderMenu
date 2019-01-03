@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  MountView
+//  MenuBar
 //
-//  Created by Benedikt Elser on 22.11.17.
+//  Created by Thayallan Srinathan on 02/01/2019.
 //
 
 import Cocoa
