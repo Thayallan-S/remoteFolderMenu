@@ -1,5 +1,5 @@
 # remoteFolderMenu
-A simple MenuBar application, that helps you keeping track of your favorite remote folders..
+A simple MenuBar application, that allows you to keep track of your favorite remote folders..
 It does so by presenting a combined view of
 
 * The currently mounted remote folders, that can be opened by clicking the menu item
